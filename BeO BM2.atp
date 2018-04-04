@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FogConvolver_SETTINGS>
+  <STATE Stretch="0.5" PreDelay="0" Start="0" End="1" FadeIn="0" FadeOut="0"
+         FadeInCurve="0.5" FadeOutCurve="0.5" Reverse="0" PreGain="0.70999997854232788086"
+         LowPass="1" HighPass="0" DryMix="0" WetMix="0.70999997854232788086"
+         Bypass="0" StartInSamples="-1" EndInSamples="-1" WaveFile="Samples/BeO_BM2.wav"/>
+  <ATTRIBUTES Category="Ribbon" Tags="1951" Rating="" Author="MicIRP"/>
+</FogConvolver_SETTINGS>
